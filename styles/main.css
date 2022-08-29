@@ -84,6 +84,7 @@ main {
             transition: all 0.5s ease;
             transform: scale(1);
             text-decoration: none;
+            color: black;
         }
 
         .linksSlot .linksSlotTxt a:visited {
