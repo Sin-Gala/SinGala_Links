@@ -67,6 +67,11 @@ main {
             margin: auto;
         }
 
+        .linksSlot .linksSlotHeader p{
+            margin: auto;
+            margin-top: 0px;
+        }
+
         .linksSlot .linksSlotHeader h4{
             font-style: italic;
         }
